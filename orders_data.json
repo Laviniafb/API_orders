@@ -1,0 +1,190 @@
+[{
+    "orderId": "5269580546313-79",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2022-06-23T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "Yulma Gonneau",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Yulma",
+    "shippingDetails": {
+      "driverName": "Yulma Murdie",
+      "licensePlate": "TVV2M35"
+    }
+  },
+  {
+    "orderId": "397506668-79",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2007-05-02T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "Lavínia Ferreira de Brito",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Neoquimica",
+    "shippingDetails": {
+      "driverName": "Yulma Murdie",
+      "licensePlate": "TVV2M35"
+    }
+  },{
+    "orderId": "131313131313-00",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2006-08-02T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "João Victor Guedes",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Neoquimica",
+    "shippingDetails": {
+      "driverName": "Tite",
+      "licensePlate": "TVV2M35"
+    }
+  },
+  {
+    "orderId": "1234567890-79",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2006-07-09T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "Arthur Cássio",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "corinthians",
+    "shippingDetails": {
+      "driverName": "Tite",
+      "licensePlate": "TVV2M35"
+    }
+  },
+  {
+    "orderId": "00000000000000000-12",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2007-02-03T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "Lucas Guilherme Alberto",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Neoquimica",
+    "shippingDetails": {
+      "driverName": "Tite",
+      "licensePlate": "TVV2M35"
+    }
+  },
+  {
+    "orderId": "00000000000000000-12",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2022-06-23T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "melissa",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Neoquimica",
+    "shippingDetails": {
+      "driverName": "Tite",
+      "licensePlate": "TVV2M35"
+    }
+  },
+  {
+    "orderId": "121212-12",
+    "deliveryStatus": "Aguardando retirada",
+    "statusModifyDate": [
+      {
+        "currentStatus": "Em breve",
+        "dateStatus": "2022-06-01T14:00:00.000Z"
+      },
+      {
+        "currentStatus": "Aguardando retirada",
+        "dateStatus": "2022-06-01T14:10:00.000Z"
+      }
+    ],
+    "deliveryInterval": {
+      "begin": "2022-06-23T15:05:00.000Z",
+      "end": "2022-06-08T00:16:25.000Z"
+    },
+    "client": {
+      "name": "Geovanna Rodrigues",
+      "address": "54716 West Trail"
+    },
+    "shippingCompanyName": "Neoquimica",
+    "shippingDetails": {
+      "driverName": "Tite",
+      "licensePlate": "TVV2M35"
+    }
+  }
+  
+  ]
